@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15076
-source-git-commit: 588f3d016786a02658c3131945e5a23a47195130
+exl-id: 61a02beb-7869-408b-8024-31e8b46f9f7a
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '1075'
 ht-degree: 3%
 
 ---
-
 
 # 자산 관리 자습서
 
@@ -24,7 +24,7 @@ ht-degree: 3%
 
 >[!TIP]
 >
->당사의 Adobe 제품 전문가 팀은 주요 콘텐츠 공급망 사용 사례에 대한 통합 튜토리얼 컬렉션을 취합했습니다. 두 개 이상의 솔루션을 사용하는 경우 이러한 솔루션을 통합하는 가장 좋은 방법을 알아보십시오.  다음을 확인하십시오. [콘텐츠 공급망 통합 자습서](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>당사의 Adobe 제품 전문가 팀은 주요 콘텐츠 공급망 사용 사례에 대한 통합 튜토리얼 컬렉션을 취합했습니다. 두 개 이상의 솔루션을 사용하는 경우 이러한 솔루션을 통합하는 가장 좋은 방법을 알아보십시오.  [콘텐츠 공급망 통합 튜토리얼](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en)을 확인하십시오.
 
 ## 추천 과정
 
@@ -33,15 +33,15 @@ ht-degree: 3%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - 에셋 보기] 일괄 가져오기 - 기능 비디오" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets - 에셋 보기] 일괄 가져오기 - 기능 비디오">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Assets 보기] 일괄 가져오기 - 기능 비디오" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3426857?format=jpeg" alt="[AEM Assets - Assets 보기] 일괄 가져오기 - 기능 비디오">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - 에셋 보기] 일괄 가져오기 - 기능 비디오">[AEM Assets - 에셋 보기] 일괄 가져오기 - 기능 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/migration/bulk-import.html" title="[AEM Assets - Assets 보기] 일괄 가져오기 - 기능 비디오">[AEM Assets - Assets 보기] 일괄 가져오기 - 기능 비디오</a>
           </p>
           <p class="is-size-6">Dropbox을 명확하고 따라하기 쉬운 통합 프로세스를 위한 예제 클라우드 스토리지 공급자로 사용하여 일괄 가져오기 기능을 사용하여 많은 파일을 AEM Assets으로 가져오는 방법에 대해 알아봅니다.</p>
         </div>
@@ -107,7 +107,7 @@ ht-degree: 3%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="[Adobe Express] 마케팅 팀이 멀티채널 콘텐츠를 만들 수 있는 권한 부여 - 주요 비디오">[Adobe Express] 마케팅 팀이 멀티채널 콘텐츠를 만들 수 있는 권한 부여 - 주요 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="[Adobe Express] 마케팅 팀이 멀티채널 콘텐츠를 만들 수 있는 권한 부여 - 주요 비디오">[Adobe Express] 마케팅 팀이 다중 채널 콘텐츠를 만들 수 있는 권한 부여 - 기능 비디오</a>
           </p>
           <p class="is-size-6">이벤트 마케팅 팀이 온라인 이벤트에 대한 시청자를 끌어들이기 위해 고유한 콘텐츠를 만드는 방법을 알아봅니다. 이 워크플로에서 B2B 마케터는 Adobe Express 키트 및 라이브러리의 템플릿을 사용하여 브랜드의 새 프로젝트를 시작합니다. B2B 마케터는 다양한 소셜 및 웹 채널에 대한 변형을 만들고 소셜 미디어 및 비디오 호스팅 플랫폼에서 콘텐츠를 공유합니다.</p>
         </div>
@@ -151,7 +151,7 @@ ht-degree: 3%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="[AEM Assets] AEM 및 Asset Link Adobe 크리에이티브 워크플로 - 가치 비디오">[AEM Assets] AEM 및 Asset Link Adobe 크리에이티브 워크플로 - 가치 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="[AEM Assets] AEM 및 Asset Link Adobe 크리에이티브 워크플로 - 가치 비디오">[AEM Assets] AEM 및 Asset Link Creative 워크플로 Adobe - 비디오 가치</a>
           </p>
           <p class="is-size-6">AAL 및 AAM을 사용하는 사용자의 크리에이티브 워크플로를 보여 주는 비디오</p>
         </div>
@@ -165,15 +165,15 @@ ht-degree: 3%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] 이메일 디자이너를 사용하여 콘텐츠 만들기 - 기능 비디오" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO] 이메일 디자이너를 사용하여 콘텐츠 만들기 - 기능 비디오">
+          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] 이메일 Designer으로 콘텐츠 만들기 - 기능 비디오" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="[AJO] 이메일 Designer으로 콘텐츠 만들기 - 기능 비디오">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] 이메일 디자이너를 사용하여 콘텐츠 만들기 - 기능 비디오">[AJO] 이메일 디자이너를 사용하여 콘텐츠 만들기 - 기능 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="[AJO] 이메일 Designer으로 콘텐츠 만들기 - 기능 비디오">[AJO] 이메일 Designer으로 콘텐츠 만들기 - 기능 비디오</a>
           </p>
           <p class="is-size-6">처음부터 이메일을 작성하는 방법에 대해 알아봅니다. AEM Assets Essentials 라이브러리에서 에셋을 사용하고, 반응형 이메일 디자인을 편집하고, 템플릿에서 이메일을 작성하는 방법에 대해 이해합니다.</p>
         </div>
@@ -195,7 +195,7 @@ ht-degree: 3%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html" title="[Asset Essentials] Assets Essentials 시작하기 - 기능 비디오">[Asset Essentials] Assets Essentials 시작하기 - 기능 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/getting-started.html" title="[Asset Essentials] Assets Essentials 시작하기 - 기능 비디오">[Asset Essentials] Assets Essentials 시작 - 기능 비디오</a>
           </p>
           <p class="is-size-6">Assets Essentials이 직관적이고 사용자 친화적인 사용자 인터페이스를 제공하여 에셋 및 관련 정보를 쉽게 찾고 기억할 수 있도록 하는 방법에 대해 알아봅니다.</p>
         </div>
@@ -217,7 +217,7 @@ ht-degree: 3%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="[AEM Assets] 컨텐츠 자동화 - 가치 비디오">[AEM Assets] 컨텐츠 자동화 - 가치 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/content-automation/overview.html" title="[AEM Assets] 컨텐츠 자동화 - 가치 비디오">[AEM Assets] 컨텐츠 자동화 - 값 비디오</a>
           </p>
           <p class="is-size-6">Adobe Experience Manager Assets 컨텐츠 자동화와 함께 Photoshop 및 Lightroom 기능을 적용하는 개요입니다.</p>
         </div>
@@ -253,15 +253,15 @@ ht-degree: 3%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="[Assets] 탐색 - 기능 비디오" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32046?format=jpeg" alt="[Assets] 탐색 - 기능 비디오">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="[Assets] 탐색 - 주요 비디오" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/32046?format=jpeg" alt="[Assets] 탐색 - 주요 비디오">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="[Assets] 탐색 - 기능 비디오">[Assets] 탐색 - 기능 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/authoring/navigation.html" title="[Assets] 탐색 - 주요 비디오">[Assets] 탐색 - 기능 비디오</a>
           </p>
           <p class="is-size-6">AEM Assets 탐색의 기본 사항을 살펴보십시오.</p>
         </div>
@@ -305,9 +305,9 @@ ht-degree: 3%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="[Assets] 검색 - 주요 비디오">[Assets] 검색 - 주요 비디오</a>
+            <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" title="[Assets] 검색 - 주요 비디오">[Assets] 검색 - 기능 비디오</a>
           </p>
-          <p class="is-size-6">AEM Omnisearch를 사용하여 에셋을 빠르게 검색하는 방법에 대해 알아봅니다.</p>
+          <p class="is-size-6">AEM의 Omnisearch를 사용하여 에셋을 빠르게 검색하는 방법에 대해 알아봅니다.</p>
         </div>
         <a href="https://docs.adobe.com/content/help/en/experience-manager-learn/assets/search-and-discovery/search.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 보기</span>
@@ -341,15 +341,15 @@ ht-degree: 3%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM 데스크탑 앱 2.0 - 기능 비디오" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28868?format=jpeg" alt="[Assets] AEM 데스크탑 앱 2.0 - 기능 비디오">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM Desktop App 2.0 - 기능 비디오" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/28868?format=jpeg" alt="[Assets] AEM Desktop App 2.0 - 기능 비디오">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM 데스크탑 앱 2.0 - 기능 비디오">[Assets] AEM 데스크탑 앱 2.0 - 기능 비디오</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="[Assets] AEM Desktop App 2.0 - 기능 비디오">[Assets] AEM Desktop App 2.0 - 기능 비디오</a>
           </p>
           <p class="is-size-6">AEM Desktop App을 사용하여 모든 응용 프로그램 및 파일 형식에 대해 데스크톱의 AEM에서 관리되는 에셋에 대한 액세스를 단순화합니다.</p>
         </div>
@@ -371,7 +371,7 @@ ht-degree: 3%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="[Assets] DM 스마트 이미지 자르기 - 주요 비디오 ">[Assets] DM 스마트 이미지 자르기 - 주요 비디오 </a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/dynamic-media/images/smart-crop-feature-video-use.html" title="[Assets] DM 스마트 이미지 자르기 - 주요 비디오 ">[Assets] DM 스마트 이미지 자르기 - 기능 비디오 </a>
           </p>
           <p class="is-size-6">스마트 자르기는 Adobe Sensei을 사용하여 반응형 디자인을 위한 콘텐츠 자르기에 드는 시간과 비용을 없애줍니다.</p>
         </div>
@@ -385,17 +385,17 @@ ht-degree: 3%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] 자산 소스 파일 변환 - 기능 비디오" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Assets] 자산 소스 파일 변환 - 기능 비디오">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] 자산 Source 파일 번역 - 기능 비디오" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/18331?format=jpeg" alt="[Assets] 자산 Source 파일 번역 - 기능 비디오">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] 자산 소스 파일 변환 - 기능 비디오">[Assets] 자산 소스 파일 변환 - 기능 비디오</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" title="[Assets] 자산 Source 파일 번역 - 기능 비디오">[Assets] 자산 Source 파일 번역 - 기능 비디오</a>
           </p>
-          <p class="is-size-6">Adobe Experience Manager(AEM) Assets를 사용하면 새로운 관련 에셋 기능을 사용하여 공통 속성을 공유하는 에셋을 식별하고 관련 에셋으로 표시할 수 있습니다.</p>
+          <p class="is-size-6">Adobe Experience Manager(AEM) Assets을 사용하면 새로운 관련 Assets 기능을 사용하여 공통 속성을 공유하는 에셋을 식별하고 관련 에셋으로 표시할 수 있습니다.</p>
         </div>
         <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/translation/source-file-translation-feature-video-use" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 보기</span>

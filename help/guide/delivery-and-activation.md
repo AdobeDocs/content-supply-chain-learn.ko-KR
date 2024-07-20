@@ -30,7 +30,7 @@ ht-degree: 6%
 
 >[!TIP]
 >
->당사의 Adobe 제품 전문가 팀은 주요 콘텐츠 공급망 사용 사례에 대한 통합 튜토리얼 컬렉션을 취합했습니다. 두 개 이상의 솔루션을 사용하는 경우 이러한 솔루션을 통합하는 가장 좋은 방법을 알아보십시오.  다음을 확인하십시오. [콘텐츠 공급망 통합 자습서](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>당사의 Adobe 제품 전문가 팀은 주요 콘텐츠 공급망 사용 사례에 대한 통합 튜토리얼 컬렉션을 취합했습니다. 두 개 이상의 솔루션을 사용하는 경우 이러한 솔루션을 통합하는 가장 좋은 방법을 알아보십시오.  [콘텐츠 공급망 통합 튜토리얼](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en)을 확인하십시오.
 
 ## 튜토리얼
 
@@ -49,7 +49,7 @@ ht-degree: 6%
           <p class="headline is-size-6 has-text-weight-bold">
             <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="콘텐츠 조각 콘솔/편집기 개요">콘텐츠 조각 콘솔/편집기 개요</a>
           </p>
-          <p class="is-size-6">AEM 콘텐츠 조각 콘솔 및 편집기를 이해하고 사용하는 데 도움이 되는 비디오 컬렉션입니다.</p>
+          <p class="is-size-6">AEM의 콘텐츠 조각 콘솔 및 편집기를 이해하고 사용하는 데 도움이 되는 비디오 모음입니다.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 보기</span>
@@ -149,15 +149,15 @@ ht-degree: 6%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="이메일 디자이너를 사용하여 콘텐츠 만들기" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="이메일 디자이너를 사용하여 콘텐츠 만들기">
+          <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="이메일 Designer으로 콘텐츠 만들기" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/334150?format=jpeg" alt="이메일 Designer으로 콘텐츠 만들기">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="이메일 디자이너를 사용하여 콘텐츠 만들기">이메일 디자이너를 사용하여 콘텐츠 만들기</a>
+            <a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" title="이메일 Designer으로 콘텐츠 만들기">전자 메일 Designer으로 콘텐츠 만들기</a>
           </p>
           <p class="is-size-6">처음부터 이메일을 작성하는 방법에 대해 알아봅니다. AEM Assets Essentials 라이브러리에서 에셋을 사용하고, 반응형 이메일 디자인을 편집하고, 템플릿에서 이메일을 작성하는 방법에 대해 이해합니다.¬†</p>
         </div>
@@ -215,15 +215,15 @@ ht-degree: 6%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="전체 웹 페이지 경험의 개인화" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="전체 웹 페이지 경험의 개인화">
+          <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="전체 웹 페이지 경험의 Personalization" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6353-personalization-web-page.jpg" alt="전체 웹 페이지 경험의 Personalization">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="전체 웹 페이지 경험의 개인화">전체 웹 페이지 경험의 개인화</a>
+            <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/sites/integrations/target/personalization-web-page" title="전체 웹 페이지 경험의 Personalization">전체 웹 페이지 경험의 Personalization</a>
           </p>
           <p class="is-size-6">AEM에서 호스팅되는 사이트 페이지를 Adobe Target을 사용하여 새 페이지로 리디렉션하는 활동을 만드는 방법을 알아봅니다.</p>
         </div>
@@ -237,15 +237,15 @@ ht-degree: 6%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Visual Experience Composer를 사용한 개인화" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="Visual Experience Composer를 사용한 개인화">
+          <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="시각적 경험 작성기를 사용한 Personalization" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://cdn.experienceleague.adobe.com/thumb/6352-personalization-using-vec.jpg" alt="시각적 경험 작성기를 사용한 Personalization">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="Visual Experience Composer를 사용한 개인화">Visual Experience Composer를 사용한 개인화</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/personalization-using-vec.html" title="시각적 경험 작성기를 사용한 Personalization">시각적 경험 작성기를 사용하는 Personalization</a>
           </p>
           <p class="is-size-6">VEC(시각적 경험 작성기)를 사용하여 A/B 테스트 Target 활동을 만드는 방법을 알아봅니다.</p>
         </div>
@@ -313,7 +313,7 @@ ht-degree: 6%
           <p class="headline is-size-6 has-text-weight-bold">
             <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" title="AEM Assets이 있는 이미지용 스마트 태그">AEM Assets이 있는 이미지용 스마트 태그</a>
           </p>
-          <p class="is-size-6">*설명:* 이미지용 스마트 태그는 이미지 내용에 따라 이미지 에셋에 메타데이터 태그를 자동으로 지능적으로 추가하여 AEM 검색 기능을 향상시킵니다.</p>
+          <p class="is-size-6">*설명:* 이미지용 스마트 태그는 이미지 컨텐츠를 기반으로 이미지 에셋에 메타데이터 태그를 자동으로 지능적으로 추가하여 AEM의 검색 기능을 향상시킵니다.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/metadata/image-smart-tags.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 보기</span>

@@ -18,7 +18,7 @@ ht-degree: 2%
 + [자산 관리](asset-management.md)
 + [게재 및 활성화](delivery-and-activation.md)
 + [보고 및 통찰력](reporting-and-insights.md)
-+ 숨김 {#hidden}
++ 숨겨진 {#hidden}
    + [창의적 생산성](creative-productivity.md)
    + [AEM Assets을 통한 창의적 생산성](creative-productivity-aemassets.md)
    + [마케팅 민첩성](marketing-agility.md)

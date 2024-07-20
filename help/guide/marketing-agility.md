@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
 
 ---
-
 
 # 마케팅 민첩성: 크리에이티브 이외의 사용자가 확장할 수 있도록 권한 부여
 
@@ -121,7 +121,7 @@ Adobe 콘텐츠 공급망 도구를 사용하면 완전한 크리에이티브 �
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="손쉽게 소셜 캠페인 실행">손쉽게 소셜 캠페인 실행</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="손쉽게 소셜 캠페인 실행">소셜 캠페인을 쉽게 실행</a>
           </p>
           <p class="is-size-6"><em>Adobe Firefly 기반의 Text to Image를 사용하여 웹, 블로그 및 소셜 캠페인에 대한 고유한 그래픽 콘텐츠를 만드는 방법에 대해 알아봅니다. 이 자습서에서는 새 Adobe Express을 사용합니다.</em></p>
       </div>
@@ -142,7 +142,7 @@ Adobe 콘텐츠 공급망 도구를 사용하면 완전한 크리에이티브 �
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Firefly을 사용하여 채용 및 온보딩 컨텐츠 만들기">Firefly을 사용하여 채용 및 온보딩 컨텐츠 만들기</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Firefly을 사용하여 채용 및 온보딩 컨텐츠 만들기">Firefly으로 채용 및 온보딩 콘텐츠 만들기</a>
           </p>
           <p class="is-size-6"><em>Adobe Express에서 Adobe Firefly 기반의 텍스트를 이미지로 사용하여 직원 채용 및 온보딩 콘텐츠를 위한 고유한 그래픽을 만드는 방법에 대해 알아봅니다.</em></p>
       </div>
@@ -184,7 +184,7 @@ Adobe 콘텐츠 공급망 도구를 사용하면 완전한 크리에이티브 �
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="분산된 팀이 콘텐츠를 현지화할 수 있는 권한 부여">분산된 팀이 콘텐츠를 현지화할 수 있는 권한 부여</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="분산된 팀이 콘텐츠를 현지화할 수 있는 권한 부여">분산된 팀이 콘텐츠를 현지화할 수 있도록 권한 부여</a>
           </p>
           <p class="is-size-6"><em>분산된 필드 마케팅 팀이 로컬 마케팅 캠페인을 위해 콘텐츠를 해당 지역으로 쉽게 맞춤화하는 방법에 대해 알아봅니다. </em></p>
       </div>
@@ -226,7 +226,7 @@ Adobe 콘텐츠 공급망 도구를 사용하면 완전한 크리에이티브 �
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="마케팅 팀이 멀티채널 콘텐츠를 만들 수 있는 권한 부여">마케팅 팀이 멀티채널 콘텐츠를 만들 수 있는 권한 부여</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="마케팅 팀이 멀티채널 콘텐츠를 만들 수 있는 권한 부여">마케팅 팀이 다중 채널 콘텐츠를 만들 수 있도록 권한 부여</a>
           </p>
           <p class="is-size-6"><em>이벤트 마케팅 팀이 온라인 이벤트에 대한 시청자를 끌어들이기 위해 고유한 콘텐츠를 만드는 방법을 알아봅니다.</em></p>
       </div>

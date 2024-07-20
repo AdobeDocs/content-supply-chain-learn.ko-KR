@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # 창의적 생산성: 창의적 팀 충원
 
@@ -82,7 +82,7 @@ Rockstar의 광고 기능이 있지만 콘텐츠 제작을 활성화해야 하�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustrator의 생성 재채색">Illustrator의 생성 재채색</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustrator의 생성 재채색">Illustrator에서 생성 다시 색</a>
           </p>
           <p class="is-size-6"><em>Adobe Illustrator에서 Adobe Firefly에서 제공하는 Generative Recolor를 사용하여 맞춤형 호텔 티 상자의 벡터 이미지 색상을 빠르게 바꾸는 방법에 대해 알아봅니다.</em></p>
       </div>
@@ -145,7 +145,7 @@ Rockstar의 광고 기능이 있지만 콘텐츠 제작을 활성화해야 하�
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Jumpstart 크리에이티브 관상">Jumpstart 크리에이티브 관상</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/jumpstart-ideation.html" title="Jumpstart 크리에이티브 관상">Jumpstart 크리에이티브 관점</a>
           </p>
           <p class="is-size-6"><em>마케팅 캠페인을 위한 크리에이티브 콘텐츠 개발을 시작하는 방법을 알아봅니다. </em></p>
       </div>
@@ -179,15 +179,15 @@ Rockstar의 광고 기능이 있지만 콘텐츠 제작을 활성화해야 하�
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC 라이브러리 사용" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="CC 라이브러리 사용">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC Libraries 사용" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="CC Libraries 사용">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC 라이브러리 사용">CC 라이브러리 사용</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="CC Libraries 사용">CC Libraries 사용</a>
           </p>
           <p class="is-size-6"><em>CC Library 에셋을 팀과 공유하는 방법을 알아봅니다.</em></p>
       </div>

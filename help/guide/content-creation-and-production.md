@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14155
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: cf124c6b-b6d9-4338-8c4d-dae6722f97d4
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '1891'
 ht-degree: 0%
 
 ---
-
 
 # 콘텐츠 제작 및 프로덕션 튜토리얼
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 >[!TIP]
 >
->당사의 Adobe 제품 전문가 팀은 주요 콘텐츠 공급망 사용 사례에 대한 통합 튜토리얼 컬렉션을 취합했습니다. 두 개 이상의 솔루션을 사용하는 경우 이러한 솔루션을 통합하는 가장 좋은 방법을 알아보십시오.  다음을 확인하십시오. [콘텐츠 공급망 통합 자습서](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>당사의 Adobe 제품 전문가 팀은 주요 콘텐츠 공급망 사용 사례에 대한 통합 튜토리얼 컬렉션을 취합했습니다. 두 개 이상의 솔루션을 사용하는 경우 이러한 솔루션을 통합하는 가장 좋은 방법을 알아보십시오.  [콘텐츠 공급망 통합 튜토리얼](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en)을 확인하십시오.
 
 ## 튜토리얼
 
@@ -68,7 +68,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor.html" title="생성 재채색">생성 재채색</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor.html" title="생성 재채색">생성 다시 색</a>
           </p>
           <p class="is-size-6">벡터 파일에서 제품 포장, 포스터 또는 아트웍에 대한 다양한 색상 변화를 즉시 미리 보는 방법에 대해 알아봅니다. 생성 다시 칠을 사용하면 입력할 수 있는 한 빨리 다시 칠할 수 있습니다. 평범한 아이디어로 실험하고, 다양한 테마나 팔레트를 중심으로 상상하고, 다양한 변형을 빠르게 만들 수 있습니다.</p>
         </div>
@@ -112,7 +112,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill.html" title="텍스트를 이미지로 변환">텍스트를 이미지로 변환</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill.html" title="텍스트를 이미지로 변환">이미지에 텍스트</a>
           </p>
           <p class="is-size-6">텍스트 설명에서 이미지를 만드는 방법을 알아봅니다. 특정 요구 사항에 따라 이미지를 생성하면 개인화되고 영감을 주는 콘텐츠를 만들 수 있습니다.</p>
         </div>
@@ -244,7 +244,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/text-to-template.html" title="텍스트 템플릿 간 Gen AI를 사용하는 방법">텍스트 템플릿 간 Gen AI를 사용하는 방법</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/text-to-template.html" title="텍스트 템플릿 간 Gen AI를 사용하는 방법">텍스트 템플릿 간 AI를 사용하는 방법</a>
           </p>
           <p class="is-size-6">몇 초 내에 텍스트 설명에서 소셜 게시물, 포스터, 전단지 및 카드에 대한 편집 가능한 템플릿을 생성하는 방법을 알아봅니다. 다운로드하거나 공유하기 전에 디자인을 편집하고, 글꼴을 변경하고, 프로젝트를 더 이상 브랜딩할 수 있습니다.</p>
         </div>
@@ -266,7 +266,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/gen-text.html" title="Gen AI를 통해 텍스트 디자인 개선">Gen AI를 통해 텍스트 디자인 개선</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/gen-text.html" title="Gen AI를 통해 텍스트 디자인 개선">Gen AI로 텍스트 디자인 개선</a>
           </p>
           <p class="is-size-6">Adobe Firefly 기반의 텍스트 효과를 사용하여 효과적인 디자인을 만드는 방법에 대해 알아봅니다. 텍스트 프롬프트를 사용하여 다듬고 다듬을 수 있는 특별한 텍스트 효과를 생성할 수 있습니다.</p>
         </div>
@@ -288,7 +288,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/generative-fill.html" title="생성 채우기 사용 방법">생성 채우기 사용 방법</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/generative-fill.html" title="생성 채우기 사용 방법">생성 채우기를 사용하는 방법</a>
           </p>
           <p class="is-size-6">Adobe Firefly 기반의 생성 채우기를 사용하여 이미지에서 요소를 추가 및 제거하는 방법에 대해 알아봅니다.</p>
         </div>
@@ -356,7 +356,7 @@ ht-degree: 0%
           <p class="headline is-size-6 has-text-weight-bold">
             <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="콘텐츠 조각 콘솔/편집기 개요">콘텐츠 조각 콘솔/편집기 개요</a>
           </p>
-          <p class="is-size-6">AEM 콘텐츠 조각 콘솔 및 편집기를 이해하고 사용하는 데 도움이 되는 비디오 컬렉션입니다.</p>
+          <p class="is-size-6">AEM의 콘텐츠 조각 콘솔 및 편집기를 이해하고 사용하는 데 도움이 되는 비디오 모음입니다.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 보기</span>
@@ -464,7 +464,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="분산된 팀이 콘텐츠를 현지화할 수 있는 권한 부여">분산된 팀이 콘텐츠를 현지화할 수 있는 권한 부여</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="분산된 팀이 콘텐츠를 현지화할 수 있는 권한 부여">분산된 팀이 콘텐츠를 현지화할 수 있도록 권한 부여</a>
           </p>
           <p class="is-size-6">분산된 필드 마케팅 팀이 로컬 마케팅 캠페인을 위해 콘텐츠를 해당 지역으로 쉽게 맞춤화하는 방법에 대해 알아봅니다.</p>
         </div>
@@ -486,7 +486,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/jumpstart-ideation.html" title="Jumpstart 크리에이티브 관상">Jumpstart 크리에이티브 관상</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/jumpstart-ideation.html" title="Jumpstart 크리에이티브 관상">Jumpstart 크리에이티브 관점</a>
           </p>
           <p class="is-size-6">마케팅 캠페인을 위한 크리에이티브 콘텐츠 개발을 시작하는 방법을 알아봅니다.</p>
         </div>
@@ -530,7 +530,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Firefly을 사용하여 채용 및 온보딩 컨텐츠 만들기">Firefly을 사용하여 채용 및 온보딩 컨텐츠 만들기</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Firefly을 사용하여 채용 및 온보딩 컨텐츠 만들기">Firefly으로 채용 및 온보딩 콘텐츠 만들기</a>
           </p>
           <p class="is-size-6">Adobe Express에서 Adobe Firefly 기반의 텍스트를 이미지로 사용하여 직원 채용 및 온보딩 콘텐츠를 위한 고유한 그래픽을 만드는 방법에 대해 알아봅니다. 이 예에서는 회사 내의 모든 사람이 브랜드에 정확히 맞는 콘텐츠를 만들 수 있도록 템플릿을 사용합니다.</p>
         </div>
@@ -552,7 +552,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html" title="손쉽게 소셜 캠페인 실행">손쉽게 소셜 캠페인 실행</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html" title="손쉽게 소셜 캠페인 실행">소셜 캠페인을 쉽게 실행</a>
           </p>
           <p class="is-size-6">Adobe Firefly 기반의 Text to Image를 사용하여 웹, 블로그 및 소셜 캠페인에 대한 고유한 그래픽 콘텐츠를 만드는 방법에 대해 알아봅니다.</p>
         </div>
@@ -574,7 +574,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustrator의 생성 재채색">Illustrator의 생성 재채색</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Illustrator의 생성 재채색">Illustrator에서 생성 다시 색</a>
           </p>
           <p class="is-size-6">Adobe Illustrator에서 Adobe Firefly에서 제공하는 Generative Recolor를 사용하여 맞춤형 호텔 티 상자의 벡터 이미지 색상을 빠르게 바꾸는 방법에 대해 알아봅니다.</p>
         </div>
@@ -698,15 +698,15 @@ ht-degree: 0%
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="CC 라이브러리 사용" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="CC 라이브러리 사용">
+          <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="CC Libraries 사용" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="CC Libraries 사용">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="CC 라이브러리 사용">CC 라이브러리 사용</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="CC Libraries 사용">CC Libraries 사용</a>
           </p>
           <p class="is-size-6">CC Library 에셋을 팀과 공유하는 방법을 알아봅니다.</p>
         </div>
@@ -750,9 +750,9 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link 설정">Adobe Asset Link 설정</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link 설정">자산 링크 설정 Adobe</a>
           </p>
-          <p class="is-size-6">AEMas a Cloud Service 용 Asset Link Adobe, 사용자 권한 및 AEM as a Cloud Service 구성 방법, Asset Link Adobe 설치 및 사용 방법에 대해 알아봅니다.</p>
+          <p class="is-size-6">AEM as a Cloud Service용 Adobe 에셋 링크를 설정하는 방법, 사용자 자격 및 AEM as a Cloud Service을 구성하는 방법, Adobe 에셋 링크를 설치하고 사용하는 방법에 대해 알아봅니다.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
           <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 보기</span>
@@ -772,7 +772,7 @@ ht-degree: 0%
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM 및 Adobe Asset Link 크리에이티브 워크플로">AEM 및 Adobe Asset Link 크리에이티브 워크플로</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM 및 Adobe Asset Link 크리에이티브 워크플로">AEM 및 Adobe Asset Link Creative 워크플로</a>
           </p>
           <p class="is-size-6">AAL 및 AAM을 사용하는 사용자의 크리에이티브 워크플로를 보여 주는 비디오</p>
         </div>

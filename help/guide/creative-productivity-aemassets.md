@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 3%
 
 ---
-
 
 # 창의적 생산성: 창의적 팀 충원
 
@@ -59,7 +59,7 @@ ht-degree: 3%
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
         <strong>Experience Manager에 대한 관리 액세스 구성</strong></a>
-        <p class="is-size-7 recs-limit-description">사용자가 Adobe IMS를 사용하여 AEM에 as a Cloud Service으로 인증하는 방법과 Adobe IMS 사용자, 사용자 그룹 및 제품 프로필을 사용하여 AEM 및 해당 기능에 대한 액세스를 제어하는 방법을 탐색합니다.</p>
+        <p class="is-size-7 recs-limit-description">사용자가 Adobe IMS를 사용하여 AEM as a Cloud Service에 인증하는 방법과 Adobe IMS 사용자, 사용자 그룹 및 제품 프로필을 사용하여 AEM 및 해당 기능에 대한 액세스를 제어하는 방법을 탐색합니다.</p>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">자세히 알아보기</span></a></p>
         </div>
       </td>
@@ -101,7 +101,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="AEM 데스크탑 앱 사용">AEM Desktop App 사용</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="AEM 데스크탑 앱 사용">AEM 데스크톱 앱 사용</a>
           </p>
           <p class="is-size-6"><em>AEM Desktop App을 사용하여 모든 응용 프로그램 및 파일 형식에 대해 데스크톱의 AEM에서 관리되는 에셋에 대한 액세스를 단순화합니다.</em></p>
       </div>
@@ -122,7 +122,7 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM 및 Adobe Asset Link 크리에이티브 워크플로">AEM 및 Adobe Asset Link 크리에이티브 워크플로</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM 및 Adobe Asset Link 크리에이티브 워크플로">AEM 및 Adobe Asset Link Creative 워크플로</a>
           </p>
           <p class="is-size-6"><em>Adobe Adobe Creative Cloud for enterprise용 Asset Link 확장 기능은 Creative Cloud 애플리케이션 내에서 AEM 에셋의 메타데이터를 검색 및 찾아보기, 정렬, 미리보기, 업로드, 체크아웃, 수정, 체크인 및 보기 기능을 확장합니다.</em></p>
       </div>
@@ -166,7 +166,7 @@ ht-degree: 3%
           <p class="headline is-size-6 has-text-weight-bold">
               <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="콘텐츠 조각 콘솔 비디오">콘텐츠 조각 콘솔 비디오</a>
           </p>
-          <p class="is-size-6"><em>AEM 콘텐츠 조각 콘솔 및 편집기를 이해하고 사용하는 데 도움이 되는 비디오 컬렉션입니다.</em></p>
+          <p class="is-size-6"><em>AEM의 콘텐츠 조각 콘솔 및 편집기를 이해하고 사용하는 데 도움이 되는 비디오 모음입니다.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">비디오 보기</span>
@@ -206,9 +206,9 @@ ht-degree: 3%
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link 설정">Adobe Asset Link 설정</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Adobe Asset Link 설정">자산 링크 설정 Adobe</a>
           </p>
-          <p class="is-size-6"><em>AEMas a Cloud Service 용 Asset Link Adobe, 사용자 권한 및 AEM as a Cloud Service 구성 방법, Asset Link Adobe 설치 및 사용 방법에 대해 알아봅니다.</em></p>
+          <p class="is-size-6"><em>AEM as a Cloud Service용 Adobe 에셋 링크를 설정하는 방법, 사용자 자격 및 AEM as a Cloud Service을 구성하는 방법, Adobe 에셋 링크를 설치하고 사용하는 방법에 대해 알아봅니다.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">비디오 보기</span>
